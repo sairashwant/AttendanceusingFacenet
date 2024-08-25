@@ -1,0 +1,6 @@
+opencv-python
+keras-facenet
+scikit-learn
+streamlit
+super-gradients
+joblib
